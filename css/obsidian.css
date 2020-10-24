@@ -351,7 +351,7 @@ audio {
 }
 .logo .image-logo {
   margin-left: 0.5rem;
-  margin-bottom: 0rem;
+  bottom: 0px;
   z-index: 10;
   position: relative;
   display: flex;
@@ -361,7 +361,7 @@ audio {
   background-repeat: no-repeat;
   background-position: center center;
   -webkit-mask-box-image: url("../img/logo.png");
-  background-color: #ffc0cb;
+  background-color: #fff;
   width: 524px;
   height: 32px;
   mask-image: url("../img/logo.png");
