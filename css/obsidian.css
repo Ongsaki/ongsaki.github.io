@@ -347,7 +347,7 @@ audio {
   display: flex;
   width: 64px;
   height: 64px;
-  background-color: #fff;
+  color: #fff;
 }
 .logo .image-logo {
   margin-left: 0.5rem;
