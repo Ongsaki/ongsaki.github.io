@@ -361,7 +361,7 @@ audio {
   background-repeat: no-repeat;
   background-position: center center;
   -webkit-mask-box-image: url("../img/logo.png");
-  background-color: #fff;
+  background-color: #ffc0cb;
   width: 524px;
   height: 32px;
   mask-image: url("../img/logo.png");
