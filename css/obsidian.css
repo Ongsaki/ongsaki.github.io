@@ -342,7 +342,7 @@ audio {
   height: 64px;
   animation-delay: 800ms;
   animation-duration: 1.2s;
-  box-shadow: 3px 3px 1px 1px #111;
+  box-shadow: 10px 10px 10px rgba(255,255,255,0.5);
 }
 .logo img {
   display: flex;
