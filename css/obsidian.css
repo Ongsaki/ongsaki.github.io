@@ -338,7 +338,7 @@ audio {
 .logo {
   display: flex;
   flex-direction: row;
-  width: 300px;
+  width: 524px;
   height: 64px;
   animation-delay: 800ms;
   animation-duration: 1.2s;
@@ -353,14 +353,14 @@ audio {
   z-index: 10;
   position: relative;
   display: flex;
-  -webkit-background-size: 250px 32px;
-  -moz-background-size: 250px 32px;
-  background-size: 250px 32px;
+  -webkit-background-size: 524px 32px;
+  -moz-background-size: 524px 32px;
+  background-size: 2524px 32px;
   background-repeat: no-repeat;
   background-position: center center;
   -webkit-mask-box-image: url("../img/logo.png");
   background-color: #fff;
-  width: 250px;
+  width: 524px;
   height: 32px;
   mask-image: url("../img/logo.png");
   mask-size: contain;
