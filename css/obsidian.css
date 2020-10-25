@@ -345,8 +345,8 @@ audio {
 }
 .logo img {
   display: flex;
-  width: 32px;
-  height: 32px;
+  width: 64px;
+  height: 64px;
 }
 .logo .image-logo {
   margin-left: 0.5rem;
