@@ -350,7 +350,6 @@ audio {
 }
 .logo .image-logo {
   margin-left: 0.5rem;
-  margin-top: 1rem;
   z-index: 10;
   position: relative;
   display: flex;
