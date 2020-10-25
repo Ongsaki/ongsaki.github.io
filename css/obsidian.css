@@ -338,7 +338,7 @@ audio {
 .logo {
   display: flex;
   flex-direction: row;
-  width: 195px;
+  width: 260px;
   height: 32px;
   animation-delay: 800ms;
   animation-duration: 1.2s;
@@ -350,7 +350,7 @@ audio {
 }
 .logo .image-logo {
   margin-left: 0.5rem;
-  margin-top: 1.5rem;
+  margin-top: 2rem;
   z-index: 10;
   position: relative;
   display: flex;
